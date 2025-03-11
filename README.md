@@ -1,15 +1,9 @@
-<div align="center">
-  <img height="200" src="https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/480778097_2445520719122112_1477062337061465786_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEfop1MZYvhVxwcdjcYP2r0ztry8wO807zO2vLzA7zTvO2BsAOotkMKeE9sqA-6zrXPnMLr4XA86TC6Z5mjs7G4&_nc_ohc=CrV9h3HV8J8Q7kNvgGAeZ4o&_nc_zt=23&_nc_ht=scontent.fdac110-1.fna&_nc_gid=AL1UOaPpHsFk-xu_lAC9kpY&oh=00_AYEgBGoVK79XRY51jCjDezBuxiwlJqcWT-Ky8qXClxtFvg&oe=67D5FA96"  />
-</div>
-
-###
-
 <h1 align="center">Hey I'm Md Shahrul Islam Sayem  👋</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-sayem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img height="200" src="https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/480778097_2445520719122112_1477062337061465786_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeEfop1MZYvhVxwcdjcYP2r0ztry8wO807zO2vLzA7zTvO2BsAOotkMKeE9sqA-6zrXPnMLr4XA86TC6Z5mjs7G4&_nc_ohc=CrV9h3HV8J8Q7kNvgGAeZ4o&_nc_zt=23&_nc_ht=scontent.fdac110-1.fna&_nc_gid=AL1UOaPpHsFk-xu_lAC9kpY&oh=00_AYEgBGoVK79XRY51jCjDezBuxiwlJqcWT-Ky8qXClxtFvg&oe=67D5FA96"  />
 </div>
 
 ###
