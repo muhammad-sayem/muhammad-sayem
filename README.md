@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ➡️ About Me
 
 I'm a passionate **Junior Web Developer** with a love for crafting interactive, user-friendly web applications.  
 I specialize in **React** and modern UI with **Tailwind CSS** and **DaisyUI**.  
