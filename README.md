@@ -51,7 +51,23 @@ I'm constantly learning and focused on building **clean**, **responsive**, and *
 
 ## 🌟 Featured Projects
 
-### 🧭 Project 1: **Web Horizon**
+### 🌍 Project 1: **TravelTales**
+
+> A travel blog website where users can share and explore travel stories, destinations, and tips. It focuses on creating a community of travel enthusiasts with engaging and user-friendly features.
+
+> **✈️ Key Features:**
+- 📝 Users can create, edit, and publish their travel blogs.  
+- 🌍 Browse and explore posts from other travelers.  
+- 🔍 Search and filter blogs by destination or category.  
+- ❤️ Like and interact with travel stories to engage with the community.  
+- 📱 Fully responsive design for seamless mobile and desktop experience.  
+
+🔗 [Live Website](https://travel-tales-blog.vercel.app/)  
+📂 [GitHub Repository](https://github.com/muhammad-sayem/Travel-Tales  
+
+---
+
+### 🧭 Project 3: **Web Horizon**
 
 > A community-driven platform to discover, share, and review websites. It features user roles, moderation, and subscriptions to ensure quality and support.
 
@@ -64,21 +80,6 @@ I'm constantly learning and focused on building **clean**, **responsive**, and *
 🔗 [Live Website](https://web-horizon-final.netlify.app/)  
 📂 [Client Side GitHub Repository](https://github.com/muhammad-sayem/Web-Horizon-Client)  
 📂 [Server Side GitHub Repository](https://github.com/muhammad-sayem/Web-Horizon-Server)
-
----
-
-### 🧠 Project 2: **Artifacts Atlas**
-
-> A web app for tracking and showcasing historical artifacts. Users can browse, add, like artifacts, and manage their contributions.
-
-> **🪄 Key Features:**
-- 🔍 Explore and discover various historical artifacts with rich detail.
-- ➕ Add new artifact entries and track personal contributions.
-- ❤️ Like artifacts to express interest and support.
-
-🔗 [Live Website](https://artifacts-atlas-phero.netlify.app/)  
-📂 [Client Side GitHub Repository](https://github.com/muhammad-sayem/Artifacts-Atlas-Client-Side)  
-📂 [Server Side GitHub Repository](https://github.com/muhammad-sayem/Artifacts-Atlas-Server-Side)
 
 ---
 
