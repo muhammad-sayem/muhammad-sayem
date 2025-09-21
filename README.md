@@ -67,7 +67,7 @@ I'm constantly learning and focused on building **clean**, **responsive**, and *
 
 ---
 
-### 🧭 Project 3: **Web Horizon**
+### 🧭 Project 2: **Web Horizon**
 
 > A community-driven platform to discover, share, and review websites. It features user roles, moderation, and subscriptions to ensure quality and support.
 
