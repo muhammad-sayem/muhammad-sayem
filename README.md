@@ -63,7 +63,7 @@ I'm constantly learning and focused on building **clean**, **responsive**, and *
 - 📱 Fully responsive design for seamless mobile and desktop experience.  
 
 🔗 [Live Website](https://travel-tales-blog.vercel.app/)  
-📂 [GitHub Repository](https://github.com/muhammad-sayem/Travel-Tales  
+📂 [GitHub Repository](https://github.com/muhammad-sayem/Travel-Tales)  
 
 ---
 
